@@ -1,4 +1,4 @@
-### Hi there 👋
+### Why piclang? 👋
 
 <!--
 **piclang/piclang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Since having a son with severe autism, I have begun to research picture language technology, a technology that allows him to speak, and robotics technology, a technology that can take care of him for me after my death. I will make my research results available here. , I don’t know that this wish can be realized in this life. Life is endless and hard work continues.
+
